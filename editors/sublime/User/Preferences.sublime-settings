@@ -4,5 +4,6 @@
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-	"default_line_ending": "unix"
+	"default_line_ending": "unix",
+	"scroll_speed": 0
 }
