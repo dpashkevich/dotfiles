@@ -2,7 +2,7 @@
 	"color_scheme": "Packages/User/Coda.tmTheme",
 	"tab_size": 4,
 	"theme": "Soda Light.sublime-theme",
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"default_line_ending": "unix",
 	"scroll_speed": 0
