@@ -1,11 +1,14 @@
 {
-	"auto_upgrade_last_run": 1351456853,
+	"auto_upgrade_last_run": 1351846813,
 	"installed_packages":
 	[
 		"DocBlockr",
+		"EditorConfig",
 		"JSHint",
 		"Package Control",
 		"Pretty JSON",
+		"SublimeTODO",
+		"Terminal",
 		"Theme - Soda"
 	]
 }

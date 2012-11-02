@@ -1,9 +1,11 @@
 {
 	"color_scheme": "Packages/User/Coda.tmTheme",
+	"default_line_ending": "unix",
+	"highlight_modified_tabs": true,
+	"scroll_speed": 0,
+	"show_tab_close_buttons": false,
 	"tab_size": 4,
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"default_line_ending": "unix",
-	"scroll_speed": 0
+	"trim_trailing_white_space_on_save": true
 }
