@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1351846813,
+	"auto_upgrade_last_run": 1352150325,
 	"installed_packages":
 	[
 		"DocBlockr",
@@ -7,6 +7,8 @@
 		"JSHint",
 		"Package Control",
 		"Pretty JSON",
+		"Sass",
+		"Sublime-HTMLPrettify",
 		"SublimeTODO",
 		"Terminal",
 		"Theme - Soda"
