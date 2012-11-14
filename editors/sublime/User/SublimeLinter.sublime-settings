@@ -1,0 +1,25 @@
+{
+    "jshint_options":
+    {
+        "curly": true,
+        "eqeqeq": false,
+        "immed": false,     // don't be bothered by opinionated IIF syntax
+        "latedef": true,
+        "newcap": true,
+        "noarg": true,
+        "sub": true,
+        "undef": true,
+        "boss": true,
+        "eqnull": true,
+        "laxbreak": true,   //prevents warning about unsafe line breaks
+        "expr": true,       // prevents warning "Expected an assignment or function call and instead saw an expression."
+
+        // environments:
+        "browser": true,
+        "jquery": true,
+
+        // custom global variables
+        "predef": [
+        ]
+    }
+}
