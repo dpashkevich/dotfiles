@@ -8,5 +8,6 @@
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"drag_text": true
+	"drag_text": true,
+	"rulers": [100]
 }
