@@ -4,8 +4,13 @@
 	[
 		"DocBlockr",
 		"EditorConfig",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git",
+		"GitGutter",
+		"HTMLBeautify",
+		"Javascript Beautify",
 		"JSHint",
-		"Lua Dev",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"Pretty JSON",
@@ -14,6 +19,7 @@
 		"SublimeLinter",
 		"SublimeREPL",
 		"SublimeTODO",
+		"Tag",
 		"Terminal",
 		"Theme - Soda"
 	]
