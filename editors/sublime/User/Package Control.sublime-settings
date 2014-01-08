@@ -6,6 +6,8 @@
 		"EditorConfig",
 		"Git",
 		"GitGutter",
+		"HTMLBeautify",
+		"Javascript Beautify",
 		"JSHint",
 		"Nettuts+ Fetch",
 		"Package Control",
