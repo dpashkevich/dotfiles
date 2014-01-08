@@ -4,16 +4,18 @@
 	[
 		"DocBlockr",
 		"EditorConfig",
+		"Git",
+		"GitGutter",
 		"JSHint",
-		"Lua Dev",
 		"Nettuts+ Fetch",
 		"Package Control",
+		"Phpcs",
 		"Pretty JSON",
 		"Sass",
 		"Sublime-HTMLPrettify",
 		"SublimeLinter",
-		"SublimeREPL",
 		"SublimeTODO",
+		"Tag",
 		"Terminal",
 		"Theme - Soda"
 	]
