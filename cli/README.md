@@ -12,6 +12,7 @@ history|awk '{print $2}'|awk 'BEGIN {FS="|"} {print $1}'|sort|uniq -c|sort -rn |
 ## Other
 
 * Create hex dump of a file
+
 ```
 # Pretty printed
 xxd file
