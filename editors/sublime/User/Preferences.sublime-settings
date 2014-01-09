@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/User/Coda.tmTheme",
 	"default_line_ending": "unix",
+	"detect_slow_plugins": false,
 	"drag_text": true,
 	"font_size": 9,
 	"highlight_line": true,
