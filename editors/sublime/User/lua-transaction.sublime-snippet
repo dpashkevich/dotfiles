@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+local t = conn:createTransaction("TRANSACTION_$1")
+
+local ok, msg = pcall(function()
+    ${2:-- transaction code...}
+
+    t:commit()
+end)
+
+if not ok then
+    log(DLevel.Error, msg)
+    t:rollback()
+    error(msg)
+end
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>trans</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+  <description>Transaction block</description>
+</snippet>
