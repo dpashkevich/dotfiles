@@ -9,7 +9,15 @@ function server() {
 }
 
 # mkdir, cd into it
-function mkcd () {
+function mkcd() {
     mkdir -p "$*"
     cd "$*"
+}
+
+# cd+ls+pwd, idea by Samuel Lampa, https://coderwall.com/p/syko3w
+function c() {
+    cd "$*"; 
+    ls -CaF;
+    echo " "
+    pwd;
 }
