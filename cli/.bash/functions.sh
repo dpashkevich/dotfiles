@@ -7,3 +7,9 @@ function server() {
     # open "http://localhost:${port}/"
     python -m SimpleHTTPServer "$port"
 }
+
+# mkdir, cd into it
+function mkcd () {
+    mkdir -p "$*"
+    cd "$*"
+}
