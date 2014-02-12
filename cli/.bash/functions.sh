@@ -1,5 +1,10 @@
 # quickly jump to a project
 prj() { cd "$HOME/projects/${*}"; }
+newprj() {
+    local TARGET="$HOME/projects/${*}"
+    mkdir "$TARGET"
+    cd "$TARGET"
+}
 
 # start a simple HTTP server
 function server() {
