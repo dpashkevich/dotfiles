@@ -2,7 +2,7 @@
 prj() { cd "$HOME/projects/${*}"; }
 newprj() {
     local TARGET="$HOME/projects/${*}"
-    mkdir "$TARGET"
+    mkdir -p "$TARGET"
     cd "$TARGET"
 }
 
