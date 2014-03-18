@@ -16,3 +16,6 @@ eval `dircolors ~/dircolors-solarized`
 
 # set solarized mc skin
 export MC_SKIN=~/mc-solarized.ini
+
+# add to PATH
+export PATH=~/bin:$PATH
