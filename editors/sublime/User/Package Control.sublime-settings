@@ -1,5 +1,4 @@
 {
-	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"ApplySyntax",
@@ -15,14 +14,15 @@
 		"JSHint",
 		"Licence Snippets",
 		"Nettuts+ Fetch",
-		"Package Control",
 		"Phpcs",
 		"Pretty JSON",
 		"Sass",
-		"Sublime-HTMLPrettify",
 		"SublimeLinter",
-		"SublimeTODO",
-		"Tag",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-lua",
+		"SublimeLinter-php",
 		"Terminal",
 		"Theme - Soda"
 	]
