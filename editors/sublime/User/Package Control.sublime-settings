@@ -1,4 +1,8 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"ApplySyntax",
@@ -10,20 +14,27 @@
 		"GitGutter",
 		"Handlebars",
 		"HTMLBeautify",
+		"Java Velocity",
 		"Javascript Beautify",
 		"JSHint",
+		"LESS",
 		"Licence Snippets",
 		"Nettuts+ Fetch",
+		"Package Control",
 		"Phpcs",
 		"Pretty JSON",
 		"Sass",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
 		"SublimeLinter-csslint",
+		"SublimeLinter-gjslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-lua",
 		"SublimeLinter-php",
+		"SublimeLinter-ruby",
 		"Terminal",
+		"Theme - Piatto",
 		"Theme - Soda"
 	]
 }
