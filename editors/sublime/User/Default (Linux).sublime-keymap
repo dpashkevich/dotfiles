@@ -8,5 +8,7 @@
     { "keys": ["alt+down"], "command": "swap_line_down" },
 
     { "keys": ["ctrl+shift+up"], "command": "unbound" },    // TODO: "duplicating up" not yet supported
-    { "keys": ["ctrl+shift+down"], "command": "duplicate_line" }
+    { "keys": ["ctrl+shift+down"], "command": "duplicate_line" },
+
+     { "keys": ["ctrl+shift+i"], "command": "insert_snippet", "args": { "name": "Packages/User/i18n.sublime-snippet" } }
 ]

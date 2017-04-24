@@ -20,10 +20,13 @@
 		"LESS",
 		"Licence Snippets",
 		"Nettuts+ Fetch",
+		"nginx",
 		"Package Control",
 		"Phpcs",
 		"Pretty JSON",
 		"Sass",
+		"Select Quoted",
+		"Sublime Tutor",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-csslint",
@@ -35,6 +38,7 @@
 		"SublimeLinter-ruby",
 		"Terminal",
 		"Theme - Piatto",
-		"Theme - Soda"
+		"Theme - Soda",
+		"TypeScript"
 	]
 }
