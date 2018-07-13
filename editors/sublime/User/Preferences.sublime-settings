@@ -25,6 +25,7 @@
 		100
 	],
 	"scroll_speed": 0,
+	"show_definitions": false,
 	"show_tab_close_buttons": false,
 	"tab_size": 4,
 	"theme": "Soda Light 3.sublime-theme",

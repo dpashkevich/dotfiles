@@ -7,6 +7,7 @@
 	[
 		"ApplySyntax",
 		"AutoFileName",
+		"Clang Format",
 		"ColorPicker",
 		"DocBlockr",
 		"EditorConfig",
@@ -26,6 +27,7 @@
 		"Pretty JSON",
 		"Sass",
 		"Select Quoted",
+		"StringEncode",
 		"Sublime Tutor",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
