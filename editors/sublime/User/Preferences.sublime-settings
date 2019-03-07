@@ -4,6 +4,61 @@
 	"detect_slow_plugins": false,
 	"drag_text": true,
 	"enable_tab_scrolling": false,
+	"extra_file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"extra_folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"find_selected_text": true,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -12,7 +67,7 @@
 		"CVS",
 		"node_modules"
 	],
-	"font_size": 10,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -20,11 +75,18 @@
 		"Handlebars",
 		"Vintage"
 	],
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
 	"rulers":
 	[
 		100
 	],
 	"scroll_speed": 0,
+	"show_full_path": true,
 	"show_tab_close_buttons": false,
 	"tab_size": 4,
 	"theme": "Soda Light 3.sublime-theme",

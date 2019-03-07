@@ -1,87 +1,71 @@
 {
-    "user": {
-        "debug": false,
-        "delay": 0.25,
-        "error_color": "D02000",
-        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
-        "gutter_theme_excludes": [],
-        "lint_mode": "background",
-        "linters": {
-            "annotations": {
-                "@disable": false,
-                "args": [],
-                "errors": [
-                    "FIXME"
-                ],
-                "excludes": [],
-                "warnings": [
-                    "NOTE",
-                    "README",
-                    "TODO",
-                    "XXX",
-                    "@todo"
-                ]
-            },
-            "csslint": {
-                "@disable": false,
-                "args": [],
-                "errors": "",
-                "excludes": [],
-                "ignore": "",
-                "warnings": ""
-            },
-            "jshint": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
-            "json": {
-                "@disable": false,
-                "args": [],
-                "excludes": [],
-                "strict": true
-            },
-            "lua": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
-            "php": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
-            "ruby": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            }
+    "debug": false,
+    "delay": 0.25,
+    "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+    "lint_mode": "background",
+    "linters": {
+        "annotations": {
+            "@disable": false,
+            "args": [],
+            "errors": [
+                "FIXME"
+            ],
+            "excludes": [],
+            "warnings": [
+                "NOTE",
+                "README",
+                "TODO",
+                "XXX",
+                "@todo"
+            ]
         },
-        "mark_style": "outline",
-        "no_column_highlights_line": false,
-        "passive_warnings": false,
-        "paths": {
-            "linux": [],
-            "osx": [],
-            "windows": []
+        "csslint": {
+            "@disable": false,
+            "args": [],
+            "errors": "",
+            "excludes": [],
+            "ignore": "",
+            "warnings": ""
         },
-        "python_paths": {
-            "linux": [],
-            "osx": [],
-            "windows": []
+        "jshint": {
+            "@disable": false,
+            "args": [],
+            "excludes": []
         },
-        "rc_search_limit": 3,
-        "shell_timeout": 10,
-        "show_errors_on_save": false,
-        "show_marks_in_minimap": true,
-        "syntax_map": {
-            "html (django)": "html",
-            "html (rails)": "html",
-            "html 5": "html",
-            "php": "html",
-            "python django": "python"
+        "json": {
+            "@disable": false,
+            "args": [],
+            "excludes": [],
+            "strict": true
         },
-        "warning_color": "DDB700",
-        "wrap_find": true
+        "lua": {
+            "@disable": false,
+            "args": [],
+            "excludes": []
+        },
+        "php": {
+            "@disable": false,
+            "args": [],
+            "excludes": []
+        },
+        "ruby": {
+            "@disable": false,
+            "args": [],
+            "excludes": []
+        }
+    },
+    "no_column_highlights_line": false,
+    "paths": {
+        "linux": [],
+        "osx": [],
+        "windows": []
+    },
+    "show_marks_in_minimap": true,
+    "syntax_map": {
+        "html (django)": "html",
+        "html (rails)": "html",
+        "html 5": "html",
+        "php": "html",
+        "python django": "python"
     }
 }

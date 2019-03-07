@@ -6,5 +6,9 @@
   // When set to true GitGutter runs asynchronously in a seperate thread
   // This may cause a small delay between a modification and the icon change
   // but can increase performance greatly if needed.
-  "non_blocking": true
+  "non_blocking": true,
+
+  "show_line_annotation": false,
+
+  "line_annotation_ignore_whitespace": true
 }

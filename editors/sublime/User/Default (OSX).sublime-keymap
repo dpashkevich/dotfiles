@@ -1,2 +1,16 @@
 [
+    { "keys": ["alt+f"], "command": "find_under_expand" },
+    { "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro" }},
+
+    // rebind line swapping from ctrl+shift+up/down to alt+up/down
+
+    { "keys": ["alt+up"], "command": "swap_line_up" },
+    { "keys": ["alt+down"], "command": "swap_line_down" },
+
+    { "keys": ["super+shift+up"], "command": "unbound" },    // TODO: "duplicating up" not yet supported
+    { "keys": ["super+shift+down"], "command": "duplicate_line" },
+    { "keys": ["super+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+
+    { "keys": ["super+home"], "command": "move_to", "args": {"to": "bof"} },
+    { "keys": ["super+end"], "command": "move_to", "args": {"to": "eof"} },
 ]
