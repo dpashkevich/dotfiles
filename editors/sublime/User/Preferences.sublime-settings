@@ -81,6 +81,7 @@
 	"match_brackets_content": false,
 	"match_brackets_square": false,
 	"match_tags": false,
+	"mini_diff": false,
 	"rulers":
 	[
 		100
