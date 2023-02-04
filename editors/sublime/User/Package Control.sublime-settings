@@ -12,6 +12,9 @@
 		"BracketHighlighter",
 		"ColorPicker",
 		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"DotENV",
+		"DoxyDoxygen",
 		"EditorConfig",
 		"Git",
 		"GitGutter",
@@ -24,6 +27,7 @@
 		"Package Control",
 		"Pretty JSON",
 		"Pretty Ruby",
+		"Prisma",
 		"Sass",
 		"Select Quoted",
 		"Sublime Tutor",
@@ -33,9 +37,9 @@
 		"SublimeLinter-json",
 		"SublimeLinter-lua",
 		"SublimeLinter-ruby",
-		"Theme - Piatto",
 		"Theme - Soda",
 		"TOML",
-		"YAML Nav"
-	]
+		"TypeScript Syntax",
+		"YAML Nav",
+	],
 }
